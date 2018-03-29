@@ -1,0 +1,29 @@
+ body {
+
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+
+    /* middle horizonal has a top and bottom border */
+    /* middle has left and right border */
+}
+
+.vertical {
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.horizontal {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
