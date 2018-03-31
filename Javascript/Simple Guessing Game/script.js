@@ -13,6 +13,6 @@ else if(guess < secretNumber) {
     alert("Sorry that is to low, Please try again");
 }
 //If guess is to high
-else(guess > secretNumber) {
+else(guess > secretNumber); {
     alert("Sorry that is to high, Please try again");
 }
