@@ -2,4 +2,5 @@ alert = displays a message to the user
 console.log = displays to the console
 prompt = used kind of link an alert but has a box to type in
 
-
+for loop goes as follows
+    for(init; condition; step){}
