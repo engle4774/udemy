@@ -4,3 +4,8 @@ prompt = used kind of link an alert but has a box to type in
 
 for loop goes as follows
     for(init; condition; step){}
+
+setInterval(function, interval(in ms))
+                ^^ you can make its own function right there to run inside the setInterval. //its called an anonymous function
+clearInterval() //put number in () to stop
+
